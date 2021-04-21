@@ -1,0 +1,18 @@
+[
+{
+
+	"deviceName" : "deviceName",
+	"deviceNameValue" : "YossriT",
+	"platformVersion" : "platformVersion",
+	"platformVersionValue" : "11",
+	"platformName" : "platformName",
+	"platformNameValue" : "Android",
+	"appPackage" : "appPackage",
+	"appPackageValue" : "com.google.android.calculator",
+	"appActivity" : "appActivity",
+	"appActivityValue" : "com.android.calculator2.Calculator",
+	"noReset" : "noReset",
+	"noResetValue" : "true",
+	"URL" : "http://127.0.0.1:4723/wd/hub"
+}
+]
